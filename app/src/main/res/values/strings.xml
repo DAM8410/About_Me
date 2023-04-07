@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Dave Meyers</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Dave.
+    \n\nI love my kids and the outdoors.
+    \n\nI like to play softball and snowboard when I am not coding
+    \n\nWe will soon be camping at Jellystone campground over the holidays.\n\n
+    \n\nFrom what I can tell, my babies like sport\n\n
+    \n\nwhich to me is nice because we share something in common.\n\n
+    \n\nIf tickets to sporting events were not so expencive,\n\n
+    \n\nWe would go see the Colorado Rockies, Colorado Avalanche,\n\n
+    \n\nand the Denver Broncos.\n\n
+    \n\nI would also someday like to see the Carolina Panthers</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
